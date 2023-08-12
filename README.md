@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @biswaone
 - 👀 I’m interested in python,golang and in general about computers
-- 🌱 I’m currently learning and tinkering with deep learning models
+- 🌱 Tinkering with racket and golang
 - 📫 How to reach me: biswaprakash444@gmail.com
 
 <!---
