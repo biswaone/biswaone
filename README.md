@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @biswaone
 - 👀 I’m interested about everything computers can do
-- 🌱 Tinkering with go, functional programming and clojure
+- 🌱 Tinkering with go, python, ocaml, rust
 - 📫 How to reach me: biswaprakash444@gmail.com, [twitter/x](www.x.com/biswaprakash14)
 - blog https://biswaone.github.io/ 
 <!---
